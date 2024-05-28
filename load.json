@@ -1,0 +1,15 @@
+First way: 
+
+genertae the json contianing top 100 job roles wiht their skillsets
+
+on the extracted skill set do a fuzzy match or semantic similarity
+
+
+creaet index on skillset 
+
+
+
+2nd approach 
+
+
+prompt : skills previous  add few shot examples
